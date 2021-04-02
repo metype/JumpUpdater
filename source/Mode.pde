@@ -1,0 +1,16 @@
+static enum Mode {
+  Launcher,
+    MainMenu,
+    MainGame,
+    EditorMenu,
+    LevelEditor,
+    EditorInventory,
+    Options,
+    SaveLevel,
+    LoadLevel,
+    LoadLevelPack,
+    SelectFile,
+    CompletionStats,
+    EditTile,
+    LevelSelect,
+}
